@@ -1,0 +1,130 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/My_stuff/ECE 241/project
+vcontroller
+Z1 !s110 1701581738
+!i10b 1
+!s100 GEC=jmCDJ0W5W[gEbPPP>2
+IO9c5FMV2okQb66NMK[^nR1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1701581612
+Z4 8fill.v
+Z5 Ffill.v
+L0 216
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1701581738.000000
+Z8 !s107 vga_pll.v|vga_controller.v|PS2_Controller.v|PS2_Demo.v|vga_adapter.v|fill.v|
+Z9 !s90 -reportprogress|300|fill.v|vga_adapter.v|PS2_Demo.v|PS2_Controller.v|vga_controller.v|vga_pll.v|
+!i113 1
+Z10 tCvgOpt 0
+vfill
+R1
+!i10b 1
+!s100 SO3AS?9FQW^3hSoL70gNb0
+IU6bC1lYYoC9jR69^SNYMG3
+R2
+R0
+R3
+R4
+R5
+L0 3
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+vplot
+R1
+!i10b 1
+!s100 =^Be[7L0?B;l9OPL>K]fW3
+I[^6nW;J?BkRUP:>M114=F0
+R2
+R0
+R3
+R4
+R5
+L0 126
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+vvga_adapter
+R1
+!i10b 1
+!s100 2<V7moDJcN?;XAS210;_c1
+Ik?[Nn2kdB;EcXWa5@@dTz1
+R2
+R0
+w1701377632
+8vga_adapter.v
+Fvga_adapter.v
+L0 78
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+vvga_controller
+R1
+!i10b 1
+!s100 e6ZP6iRSUQ77>][ahP0EJ1
+ITS]5dFPCKSB?gH[b`;iOY3
+R2
+R0
+Z11 w1701324151
+8vga_controller.v
+Fvga_controller.v
+L0 9
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+vvga_pll
+R1
+!i10b 1
+!s100 4XSTjD`VEiamX^n1@5J`b3
+InS4CFLIEOHD9AEaVkoljA1
+R2
+R0
+R11
+8vga_pll.v
+Fvga_pll.v
+L0 36
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10

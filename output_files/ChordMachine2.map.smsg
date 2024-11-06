@@ -1,0 +1,2 @@
+Info (10281): Verilog HDL Declaration information at ChordMachine2.v(105): object "C3" differs only in case from object "c3" in the same scope File: C:/My_stuff/ECE 241/project/ChordMachine2.v Line: 105
+Info (10281): Verilog HDL Declaration information at ChordMachine2.v(319): object "TRACKLED" differs only in case from object "trackLED" in the same scope File: C:/My_stuff/ECE 241/project/ChordMachine2.v Line: 319
